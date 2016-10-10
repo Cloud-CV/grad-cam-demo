@@ -1,6 +1,8 @@
 
 # Grad-CAM: Gradient-weighted Class Activation Mapping
 
+[![Join the chat at https://gitter.im/Cloud-CV/Grad-CAM](https://badges.gitter.im/Cloud-CV/Grad-CAM.svg)](https://gitter.im/Cloud-CV/Grad-CAM?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Overview](http://i.imgur.com/qBPR3aM.jpg)
 
 ## Usage
